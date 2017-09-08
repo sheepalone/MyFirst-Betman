@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+ProjectEnv
+db.mysql
+/static
+.DS_Store
